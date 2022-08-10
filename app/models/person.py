@@ -4,4 +4,5 @@ class Person(GenericModel):
     name: str
     last_name: str
     email: str
+    balance: float
     

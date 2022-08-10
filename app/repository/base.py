@@ -1,5 +1,4 @@
 from abc import abstractmethod
-
 from db.base import DBConnection
 
 
